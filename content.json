@@ -338,16 +338,16 @@
   {
     "name": "content.json",
     "path": "content.json",
-    "sha": "1a915228d7f31b23155edc4f744dd66a45886426",
+    "sha": "a15122a897ef9e7b93c67a1f9761a6ddca0a4734",
     "size": 30812,
     "url": "https://api.github.com/repos/PhiGameRevive/PhiCommunity-Charts-Repo/contents/content.json?ref=main",
     "html_url": "https://github.com/PhiGameRevive/PhiCommunity-Charts-Repo/blob/main/content.json",
-    "git_url": "https://api.github.com/repos/PhiGameRevive/PhiCommunity-Charts-Repo/git/blobs/1a915228d7f31b23155edc4f744dd66a45886426",
+    "git_url": "https://api.github.com/repos/PhiGameRevive/PhiCommunity-Charts-Repo/git/blobs/a15122a897ef9e7b93c67a1f9761a6ddca0a4734",
     "download_url": "https://raw.githubusercontent.com/PhiGameRevive/PhiCommunity-Charts-Repo/main/content.json",
     "type": "file",
     "_links": {
       "self": "https://api.github.com/repos/PhiGameRevive/PhiCommunity-Charts-Repo/contents/content.json?ref=main",
-      "git": "https://api.github.com/repos/PhiGameRevive/PhiCommunity-Charts-Repo/git/blobs/1a915228d7f31b23155edc4f744dd66a45886426",
+      "git": "https://api.github.com/repos/PhiGameRevive/PhiCommunity-Charts-Repo/git/blobs/a15122a897ef9e7b93c67a1f9761a6ddca0a4734",
       "html": "https://github.com/PhiGameRevive/PhiCommunity-Charts-Repo/blob/main/content.json"
     }
   },
